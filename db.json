@@ -1,6 +1,6 @@
 {
     "list_annonces": [
-      { "id": 1, "desc": "Post 1" },
+      { "id": 1, "desc": "Annonce 1" },
       { "id": 2, "desc": "Post 2" },
       { "id": 3, "desc": "Post 3" },
       { "id": 4, "desc": "Post 4" },
